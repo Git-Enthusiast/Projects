@@ -1,1 +1,1 @@
-#  Inital Projects in CSE
+#  College Semester Projects in CSE
